@@ -1,0 +1,13 @@
+build/
+dist/
+.DS_Store
+
+out/
+ChaosChef.iml
+
+.idea/*
+.idea/workspace.xml
+
+.venv/*
+
+credentials.txt
