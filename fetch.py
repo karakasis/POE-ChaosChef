@@ -157,7 +157,7 @@ print("Tabs found : " + str(TABS_NUMBER))
 rare_items = []
 chef = Chef()
 counter = 0
-for tab_index in range(20, 21):
+for tab_index in range(0, TABS_NUMBER):
     rr = requests.post("https://www.pathofexile.com/character-window/get-stash-items?"+
                        "accountName=" + ACCOUNT_NAME +
                        "&tabIndex=" + str(tab_index) +

@@ -8,6 +8,6 @@ ChaosChef.iml
 .idea/*
 .idea/workspace.xml
 
-.venv/*
+venv/*
 
 credentials.txt
