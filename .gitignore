@@ -9,5 +9,5 @@ ChaosChef.iml
 .idea/workspace.xml
 
 venv/*
-
+__pycache__
 credentials.txt
